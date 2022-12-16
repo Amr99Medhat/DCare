@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577842207186",
+    "project_id": "dental-e-commerce-app",
+    "storage_bucket": "dental-e-commerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577842207186:android:30846f87ca9fe97bd8d00b",
+        "android_client_info": {
+          "package_name": "com.amr_medhat_r.dentale_commerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577842207186-pfg4fn33n553nh4judavk22c4pb1dibl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzN8uY48tBFxTE6t-NnC4mXam6645jnIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577842207186-pfg4fn33n553nh4judavk22c4pb1dibl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_Primary">#e6c0a3</color>
+    <color name="color_secondary">#fae8d7</color>
+    <color name="color_lightGray">#989898</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorSnackBarSuccess">#e6c0a3</color>
+    <color name="colorSnackBarError">#c3221d</color>
+    <color name="OffWhite">#f6f6f6</color>
+    <color name="colorBorder">#E8E6E6</color>
+    <color name="colorOrderStatusInProcess">#FF9800</color>
+    <color name="colorOrderStatusDelivered">#8BC34A</color>
+    <color name="colorRipple">#80989898</color>
+
+</resources>
